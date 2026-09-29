@@ -2,4 +2,4 @@
 1
 2
 3
-p pvw Predictive value weighting for covariate misclassification in logistic regression (pvw) Use pvw With STATA 19
+p raschtest Estimation of the parameters of a Rasch model, tests and specific graphs Use raschtest and raschtestv7 With STATA 19
