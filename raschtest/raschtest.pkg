@@ -1,5 +1,16 @@
-D 'pvw': Predictive value weighting for covariate misclassification in logistic regression (pvw) Use pvw With STATA 19
+D 'raschtest': Estimation of the parameters of a Rasch model, tests and specific graphs Use raschtest and raschtestv7 With STATA 19
 D
-F pvw.ado
-F pvwcalc.ado
-F pvw.sthlp
+F elapse.ado
+F elapse.hlp
+F gammasym.ado
+F gammasym.hlp
+F gausshermite.ado
+F gausshermite.hlp
+F geekel2d.ado
+F geekel2d.hlp
+F genscore.ado
+F genscore.hlp
+F raschtest.ado
+F raschtest.hlp
+F raschtestv7.ado
+F raschtestv7.hlp
