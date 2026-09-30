@@ -1,6 +1,8 @@
 # raschtest
 Estimation of the parameters of a Rasch model, tests and specific graphs Use raschtest and raschtestv7 With STATA 19
 
+https://www.youtube.com/watch?v=FhZ-OP3QQX4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
